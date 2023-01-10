@@ -1,0 +1,16 @@
+{
+  "name": "United Canteen Menu",
+  "description": "A simple extension that displays a menu of daily menus. Made By @magoekce",
+  "uuid": "united.canteen@mkrabs.de",
+  "shell-version": [
+    "40",
+    "41",
+    "42",
+    "43"
+  ],
+  "web_accessible_resources": [
+    "https://hub.dummyapis.com/singlelistwithid?text=Test&noofRecords=10"
+  ],
+  "url": "https://gitlab.gnome.org/World/ShellExtensions/example",
+  "version": "1.0.0"
+}
