@@ -11,6 +11,6 @@
   "web_accessible_resources": [
     "https://hub.dummyapis.com/singlelistwithid?text=Test&noofRecords=10"
   ],
-  "url": "https://gitlab.gnome.org/World/ShellExtensions/example",
+  "url": "https://github.com/MKrabs/united-canteen",
   "version": "1.0.0"
 }
